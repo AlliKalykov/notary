@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+
+.env
+
+venv/
+env/
+
+media/
+
+*.sqlite3
+*.pyc
+
